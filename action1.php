@@ -29,11 +29,11 @@ if(!$conn) die("Couldn't Connect"). mysqli_connect_error();
 		<title>Details</title>
 		<link rel="stylesheet" href="css2.css">
 		<script src="https://kit.fontawesome.com/4cd85a3cfa.js" crossorigin="anonymous"></script>
-		<link rel="icon" type="image/x-icon" href="assets\icons8-ubisoft-120.png">
+		<link rel="icon" type="image/x-icon" href="icons8-ubisoft-120.png">
 	</head>
 
 	<body>
 
-<div id="message"><img src="assets\successfully-done.gif" alt="checkmark">
+<div id="message"><img src="successfully-done.gif" alt="checkmark">
 <span>Thank You For Submitting Your Response</span>
 </div>
